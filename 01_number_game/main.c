@@ -18,7 +18,7 @@ int main() {
     int numHistory[MAX_STAGE];
     int status;
     int c;
-    printf("answer:%d",answer);
+    printf("answer:%d\n",answer);
     do {
         printf("---------\n残り%d回です!\n---------\n",MAX_STAGE - stage);
         printf("%d から %d の間で整数を入力してください: ", min, max);
