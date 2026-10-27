@@ -4,13 +4,13 @@ IT・プログラミング学習の記録です。
 
 ## 現在学習していること
 
-- JavaScript
-- HTML / CSS
-- Webセキュリティ
+- JavaScript(休止中)
+- HTML / CSS(休止中)
+- Webセキュリティ(主にTry Hack Me)
 - Linux
-- SQL
-- C言語
-- シェルスクリプト
+- SQL(休止中)
+- C言語(休止中)
+- シェルスクリプト(休止中)
 
 ## 目的
 
